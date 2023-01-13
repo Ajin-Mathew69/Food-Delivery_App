@@ -1,0 +1,23 @@
+.header-container {
+     position: relative;
+     padding: 1rem;
+}
+.home-container a {
+     margin-right: 5rem;
+     font-weight: bold;
+}
+.home-container {
+     position: absolute;
+     right: 4rem;
+}
+.logo-container {
+     position: relative;
+     left: 3rem;
+}
+.logo-container h5 {
+     font-size: 18px;
+}
+.cart {
+     position: absolute;
+     left: 5rem;
+}

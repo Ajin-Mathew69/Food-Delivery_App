@@ -1,0 +1,33 @@
+.pagination{
+  
+    justify-content: center;
+    margin: 50px 0 0;
+}
+.pagination ul li{
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    margin:0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 8px;
+    transition: all ease 0.3s;
+}
+.pagination ul li:hover{
+    background-color: aqua;
+    border-color: orange;
+}
+.br-2{
+    border: 2px solid rgba(255, 255, 255, 0.548);
+    /* background-color: rgba(32, 83, 107, 0.692); */
+    color: rgb(32, 83, 107);
+    font-weight: bold;
+  }
+  .activePage{
+    color: #fff;
+    background-color: rgba(32, 83, 107, 0.692);
+    border: 3px solid rgb(255, 255, 255)
+
+  }

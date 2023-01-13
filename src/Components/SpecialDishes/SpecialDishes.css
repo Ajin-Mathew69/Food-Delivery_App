@@ -1,0 +1,21 @@
+
+.special-dishes__content{
+    max-width: 680px;
+    margin: auto;
+}
+.special-dishes__list ul li{
+    width: 22%;
+
+}
+.special-dishes__list{
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: rgba(193, 221, 248, 0.226);
+}
+.br-10{
+    border-radius: 10px;
+  }
+  .shadow:hover{
+    box-shadow: -1.5px 1px 3px 1px rgb(82, 128, 150);
+    cursor: pointer;
+  }

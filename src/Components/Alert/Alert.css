@@ -1,0 +1,19 @@
+.alert{
+    width: 100%;
+    margin-bottom: 100px;
+    border: 2px solid #36779c;
+    border-radius: 10px;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.alert h3{
+color: red;
+margin: 0 0 10px 0;
+}
+.alert h2{
+    margin: 0;
+    color: rgb(3, 68, 94);
+}
